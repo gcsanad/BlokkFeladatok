@@ -1,0 +1,26 @@
+#kulso {
+    background-color: red;
+    width: 12cm;
+    height: 12cm;
+    text-align: center;
+}
+
+#kozepso {
+    background-color: green;
+    width: 8cm;
+    height: 8cm;
+    bottom: 10cm ;
+    left: 20mm;
+    text-align: center;
+    position: relative;
+}
+
+#belso {
+    background-color: blue;
+    height: 4cm;
+    width: 4cm;
+    text-align: center;
+    bottom: 16cm;
+    left: 4cm;
+    position: relative;
+}
