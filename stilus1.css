@@ -1,0 +1,13 @@
+p {
+    padding: 4mm;
+    border: blue 2px solid ;
+
+}
+
+span {
+    padding: 5px;
+    margin: 10px 10px;
+    background-color: orange;
+    border-radius: 10px;
+    float: left;
+}
