@@ -1,18 +1,16 @@
-ul{
+li {
+    padding: 3mm;
+    list-style: none;
+    height: 1cm;
+    background-color: lightseagreen;
+    display: inline;
+}
+
+ul {
     width: 50%;
     height: 2cm;
     padding: 1cm 0 0 0;
-    left: 10cm;
-    position: relative;
-    border: green dotted 20px;
-}
-
-li {
-    background-color: lightseagreen;
-    height: 1cm;
-    padding: 3mm;
-    list-style: none;
-    position: relative;
-    bottom: 2cm;
-    
+    margin: auto;
+    text-align: center;
+    border:20px dotted green;
 }
